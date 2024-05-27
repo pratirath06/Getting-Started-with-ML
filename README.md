@@ -6,20 +6,20 @@ Welcome to the "Getting Started with ML" repository! This project is designed to
 Table of Contents
 -----------------
 
-*   [Introduction](https://github.com/pratirath06/Getting-Started-with-ML/edit/main/README.md)
+*   [Introduction](#Introduction)
     
-*   [Features](https://github.com/pratirath06/Getting-Started-with-ML/edit/main/README.md)
+*   [Features](#Features)
     
-*   [Installation](https://github.com/pratirath06/Getting-Started-with-ML/edit/main/README.md)
+*   [Installation](#Installation)
     
-*   [Usage](https://github.com/pratirath06/Getting-Started-with-ML/edit/main/README.md)
+*   [Usage](#Usage)
     
-*   [Contributing](https://github.com/pratirath06/Getting-Started-with-ML/edit/main/README.md)
+*   [Contributing](#Contributing)
     
-*   [Acknowledgements](https://github.com/pratirath06/Getting-Started-with-ML/edit/main/README.md)
+*   [Acknowledgements](#Acknowledgements)
     
 
-Introduction
+#Introduction <a name="Introduction"></a>
 ------------
 
 Machine learning requires meticulous data handling and preprocessing to ensure high-quality and effective models. This repository provides a Python script that covers a wide range of essential data manipulation tasks, from loading and visualizing data to handling missing values and outliers.
