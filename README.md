@@ -19,12 +19,12 @@ Table of Contents
 *   [Acknowledgements](#Acknowledgements)
     
 
-#Introduction <a name="Introduction"></a>
+<a name="Introduction">Introduction </a>
 ------------
 
 Machine learning requires meticulous data handling and preprocessing to ensure high-quality and effective models. This repository provides a Python script that covers a wide range of essential data manipulation tasks, from loading and visualizing data to handling missing values and outliers.
 
-Features
+<a name="Features">Features </a>
 --------
 
 The script includes the following functionalities:
@@ -74,7 +74,7 @@ The script includes the following functionalities:
 22.  **Exporting the Data**: Export the processed data to files or databases.
     
 
-Installation
+<a name="Installation">Installation </a>
 ------------
 
 1.  Clone the repository
@@ -82,7 +82,7 @@ Installation
 3.  cd Getting-Started-with-ML
     
 
-Usage
+<a name="Usage">Usage </a>
 -----
 
 1.  Navigate to the repository directory
@@ -96,7 +96,7 @@ Usage
 
 The script is modular, so you can comment or uncomment specific sections depending on the operations you need to perform.
 
-Contributing
+<a name="Contributing">Contributing </a>
 ------------
 
 Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request. For major changes, please discuss them in an issue first.
@@ -112,7 +112,7 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 5.  Open a pull request.
     
 
-Acknowledgements
+<a name="Acknowledgements">Acknowledgements </a>
 ----------------
 
 Special thanks to all the contributors and the open-source community for their support and resources.
