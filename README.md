@@ -6,17 +6,17 @@ Welcome to the "Getting Started with ML" repository! This project is designed to
 Table of Contents
 -----------------
 
-*   [Introduction](https://chatgpt.com/c/12d9627a-6a46-4d5e-ac0d-68bb087f6a96#introduction)
+*   [Introduction](https://github.com/pratirath06/Getting-Started-with-ML/edit/main/README.md)
     
-*   [Features](https://chatgpt.com/c/12d9627a-6a46-4d5e-ac0d-68bb087f6a96#features)
+*   [Features](https://github.com/pratirath06/Getting-Started-with-ML/edit/main/README.md)
     
-*   [Installation](https://chatgpt.com/c/12d9627a-6a46-4d5e-ac0d-68bb087f6a96#installation)
+*   [Installation](https://github.com/pratirath06/Getting-Started-with-ML/edit/main/README.md)
     
-*   [Usage](https://chatgpt.com/c/12d9627a-6a46-4d5e-ac0d-68bb087f6a96#usage)
+*   [Usage](https://github.com/pratirath06/Getting-Started-with-ML/edit/main/README.md)
     
-*   [Contributing](https://chatgpt.com/c/12d9627a-6a46-4d5e-ac0d-68bb087f6a96#contributing)
+*   [Contributing](https://github.com/pratirath06/Getting-Started-with-ML/edit/main/README.md)
     
-*   [Acknowledgements](https://chatgpt.com/c/12d9627a-6a46-4d5e-ac0d-68bb087f6a96#acknowledgements)
+*   [Acknowledgements](https://github.com/pratirath06/Getting-Started-with-ML/edit/main/README.md)
     
 
 Introduction
